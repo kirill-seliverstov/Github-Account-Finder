@@ -4,11 +4,8 @@ export const UserNotFoundWrapper = styled.div`
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 640px; /* Can be in percentage also. */
-    height: auto;
-    margin: 0 auto;
-    padding: 10px;
-    position: relative;
+    
+    margin: 20% auto;
 `
 
 export const UserNotFoundIcon = styled.img`
